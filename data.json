@@ -1,0 +1,66 @@
+{
+    "jas": [
+        {
+            "foto": "images/produk/Jas-2.png",
+            "nama": "Jas",
+            "size": "All Size",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Jas&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-1.png",
+            "nama": "Jas",
+            "size": "All Size",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Jas&tbm=shop"
+        }
+    ],
+    "sweater": [
+        {
+            "foto": "images/produk/Sweater-2.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        }
+    ],
+    "hoodie": [
+        {
+            "foto": "images/produk/Hoodie-1.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        }
+    ],
+    "allitem": [
+        {
+            "foto": "images/produk/Jas-2.png",
+            "nama": "Jas",
+            "size": "All Size",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=cJas&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-2.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-1.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-1.png",
+            "nama": "Jas",
+            "size": "All Size",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Jas&tbm=shop"
+        }
+    ]
+}
